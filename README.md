@@ -5,7 +5,7 @@
 - ⚡ Fun fact: когда-то я ловил жуликов, а теперь крашу кнопки)
 
 <p align='center'>
-   <a href="https://t.me/yalandaev">
+   <a href="https://t.me/YalanDay">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
    <a href="mailto:yalanday256@gmail.com">
