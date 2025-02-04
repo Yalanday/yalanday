@@ -79,7 +79,7 @@
 - **Репозиторий**: https://github.com/Yalanday/board-express
 
 #### [Платформа для управления чебуречной](https://github.com/Yalanday/chebureki-fullstack-micro-front-service)
-- **Технологии**: Vue.js 3, Pinia, TypeScript, Ant Design
+- **Технологии**: Vue.js 3, Pinia, TypeScript, Ant Design, Node.js, Express, Apollo(GraphQL), Module-Federation(микрофронтенд)
 - **Описание**: Веб-приложение для управления чебуречной.
 - **Репозиторий**: https://github.com/Yalanday/chebureki-fullstack-micro-front-service
 
